@@ -1,1 +1,1 @@
-# colaborativo-miguel
+Ejemplo de proyecto colaborativo - Miguel
